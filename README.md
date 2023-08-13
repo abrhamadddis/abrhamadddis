@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrhamadddis
 - 👀 I’m interested in python, web development, machin learing and AI
-- 🌱 I’m currently learning software engineering ...
+- 🌱 I’m Full Stack Developer ...
 - 💞️ I’m looking to collaborate on any web development and machin learing and AI project
 -     Feel free to collaborate, fork or clone any of my projects.
 
