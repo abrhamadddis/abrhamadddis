@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abrhamaddis32](https://medium.com/@abrhamaddis32)
 
-- 💬 Ask me about **Data workflows, ETL, real-time processing, databases, or cloud technologies.I've got insights to share!**
+- 💬 Ask me about **Data workflows, ETL, real-time processing, databases, or cloud technologies. I've got insights to share!**
 
 - 📫 How to reach me **abrhamaddis@gmail.com**
 
