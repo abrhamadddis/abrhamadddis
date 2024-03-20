@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering, Machine Learning, Generative AI**
 
-- 👯 I’m looking to collaborate on **Projects that leverage data engineering to solve complex problems and drive insights**
+- 👯 I’m looking to collaborate on **Projects that leverage data engineering to solve complex problems and drive insights.**
 
 - 📝 I regularly write articles on [https://medium.com/@abrhamaddis32](https://medium.com/@abrhamaddis32)
 
